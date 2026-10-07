@@ -5,6 +5,9 @@
 [submodule "datazoom.amazonia"]
 	path = datazoom.amazonia
 	url = https://github.com/datazoompuc/datazoom.amazonia
+[submodule "datazoom.saude"]
+	path = datazoom.saude
+	url = https://github.com/datazoompuc/datazoom.saude
 [submodule "datazoom.social"]
 	path = datazoom.social
 	url = https://github.com/datazoompuc/datazoom.social
